@@ -4,9 +4,11 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace WebPresentationLayerAPI.Controllers
 {
+
     public class ValuesController : ApiController
     {
         // GET api/values
@@ -20,7 +22,7 @@ namespace WebPresentationLayerAPI.Controllers
         {
             return "value";
         }
-
+        [HttpPost]
         // POST api/values
         public void Post([FromBody]string value)
         {
