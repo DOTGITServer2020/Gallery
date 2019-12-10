@@ -1,0 +1,5 @@
+MetroFramework.1.2.0.3
+MetroFramework.Design.1.2.0.3
+MetroFramework.Fonts.1.2.0.3
+MetroFramework.RunTime.1.2.0.3
+Newtonsoft.Json.12.0.2

@@ -1,0 +1,274 @@
+<mat-card>
+  Add New Employee
+</mat-card>
+
+<mat-horizontal-stepper labelPosition="bottom" [linear]="isLinear" #stepper>
+
+  <mat-step [stepControl]="PersonalInformationFormGroup">
+    <form class="PersonalInformationFormGroup">
+      <ng-template matStepLabel>Personal Information</ng-template>
+
+      <form class="name-form">
+        <mat-form-field class="name-full-width">
+          <input matInput placeholder="Full Name">
+        </mat-form-field>
+      </form>
+
+      <form class="fathername-form">
+        <mat-form-field class="fathername-full-width">
+          <input matInput placeholder="Father Name">
+        </mat-form-field>
+      </form>
+
+      <form class="Gender-form">
+        <mat-form-field>
+          <mat-label>Gender</mat-label>
+          <mat-select>
+            <mat-option *ngFor="let topping of gender" [value]="topping">{{topping.name}}
+            </mat-option>
+          </mat-select>
+        </mat-form-field>
+      </form>
+
+      <form class="dob-form">
+        <mat-form-field>
+          <input matInput [matDatepicker]="picker" placeholder="Date Of Birth">
+          <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+          <mat-datepicker #picker></mat-datepicker>
+        </mat-form-field>
+      </form>
+
+      <form class="location-form">
+        <mat-form-field>
+          <mat-label>Location</mat-label>
+          <mat-select>
+            <mat-option *ngFor="let topping of location" [value]="topping">{{topping.name}}
+            </mat-option>
+          </mat-select>
+        </mat-form-field>
+      </form>
+
+      <form class="degree-form">
+        <mat-form-field class="degree-full-width">
+          <input matInput placeholder="Degree">
+        </mat-form-field>
+      </form>
+
+      <form class="qualification-form">
+        <mat-form-field class="qualification-full-width">
+          <input matInput placeholder="Qualification">
+        </mat-form-field>
+      </form>
+
+      <form class="PhoneNumber-form">
+        <mat-form-field class="PhoneNumber-full-width">
+          <input matInput placeholder="Phone Number">
+        </mat-form-field>
+      </form>
+
+      <form class="address-form">
+        <mat-form-field class="address-full-width">
+          <input matInput placeholder="Address">
+        </mat-form-field>
+      </form>
+      <div>
+        <button mat-button matStepperNext>Next</button>
+      </div>
+
+    </form>
+  </mat-step>
+
+  <mat-step [stepControl]="RoleFormGroup">
+    <form class="RoleFormGroup">
+      <ng-template matStepLabel>Role</ng-template>
+
+      <form class="grade-form">
+        <mat-form-field class="grade-full-width">
+          <input matInput placeholder="Grade">
+        </mat-form-field>
+      </form>
+
+      <form class="designation-form">
+        <mat-form-field class="designation-full-width">
+          <input matInput placeholder="Designation">
+        </mat-form-field>
+      </form>
+
+      <div>
+        <button mat-button matStepperPrevious>Back</button>
+        <button mat-button matStepperNext>Next</button>
+      </div>
+    </form>
+  </mat-step>
+
+  <mat-step [stepControl]="AccessFormGroup">
+    <form class="AccessFormGroup">
+      <ng-template matStepLabel>Access</ng-template>
+
+      <form class="ntlg-form">
+        <mat-form-field class="ntlg-full-width">
+          <input matInput placeholder="NTLG">
+        </mat-form-field>
+      </form>
+
+      <form class="mail-form">
+        <mat-form-field class="mail-full-width">
+          <input matInput placeholder="Mail ID">
+        </mat-form-field>
+      </form>
+
+      <div>
+        <button mat-button matStepperPrevious>Back</button>
+        <button mat-button matStepperNext>Next</button>
+      </div>
+    </form>
+  </mat-step>
+
+  <mat-step [stepControl]="ShiftFormGroup">
+    <form class="ShiftFormGroup">
+      <ng-template matStepLabel>Shift</ng-template>
+
+      <form class="timing-form">
+        <mat-form-field class="timing-full-width">
+          <input matInput placeholder="Timing">
+        </mat-form-field>
+      </form>
+
+      <form class="type-form">
+        <mat-form-field class="type-full-width">
+          <input matInput placeholder="Type">
+        </mat-form-field>
+      </form>
+
+      <div>
+        <button mat-button matStepperPrevious>Back</button>
+        <button mat-button matStepperNext>Next</button>
+      </div>
+    </form>
+  </mat-step>
+
+  <mat-step [stepControl]="ReportingHierarchyFormGroup">
+    <form class="ReportingHierarchyFormGroup">
+      <ng-template matStepLabel>Reporting Hierarchy</ng-template>
+
+      <form class="tl-form">
+        <mat-form-field class="tl-full-width">
+          <input matInput placeholder="Team Lead">
+        </mat-form-field>
+      </form>
+
+      <form class="am-form">
+        <mat-form-field class="am-full-width">
+          <input matInput placeholder="Assistant Manager">
+        </mat-form-field>
+      </form>
+
+      <form class="sm-form">
+        <mat-form-field class="sm-full-width">
+          <input matInput placeholder="Senior Manager">
+        </mat-form-field>
+      </form>
+
+      <form class="sdh-form">
+        <mat-form-field class="sdh-full-width">
+          <input matInput placeholder="Service Delivery Manager">
+        </mat-form-field>
+      </form>
+
+      <form class="ad-form">
+        <mat-form-field class="ad-full-width">
+          <input matInput placeholder="Associate Director">
+        </mat-form-field>
+      </form>
+
+      <form class="d-form">
+        <mat-form-field class="d-full-width">
+          <input matInput placeholder="Director">
+        </mat-form-field>
+      </form>
+
+      <form class="vp-form">
+        <mat-form-field class="vp-full-width">
+          <input matInput placeholder="Vice President">
+        </mat-form-field>
+      </form>
+
+      <form class="p-form">
+        <mat-form-field class="p-full-width">
+          <input matInput placeholder="President">
+        </mat-form-field>
+      </form>
+
+      <form class="ceo-form">
+        <mat-form-field class="ceo-full-width">
+          <input matInput placeholder="Chief Executive Officer">
+        </mat-form-field>
+      </form>
+
+      <div>
+        <button mat-button matStepperPrevious>Back</button>
+        <button mat-button matStepperNext>Next</button>
+      </div>
+    </form>
+  </mat-step>
+
+  <mat-step [stepControl]="ProjectFormGroup">
+    <form class="ProjectFormGroup">
+      <ng-template matStepLabel>Project</ng-template>
+
+      <form class="functionality-form">
+        <mat-form-field class="functionality-full-width">
+          <input matInput placeholder="Functionality">
+        </mat-form-field>
+      </form>
+
+      <form class="process-form">
+        <mat-form-field class="process-full-width">
+          <input matInput placeholder="Process">
+        </mat-form-field>
+      </form>
+
+      <form class="processdate-form">
+        <mat-form-field>
+          <input matInput [matDatepicker]="processdatepicker" placeholder="Date Of Process">
+          <mat-datepicker-toggle matSuffix [for]="processdatepicker"></mat-datepicker-toggle>
+          <mat-datepicker #processdatepicker></mat-datepicker>
+        </mat-form-field>
+      </form>
+
+      <div>
+        <button mat-button matStepperPrevious>Back</button>
+        <button mat-button matStepperNext>Next</button>
+      </div>
+    </form>
+  </mat-step>
+
+  <mat-step [stepControl]="StatusRemarksFormGroup">
+      <form class="StatusRemarksFormGroup">
+        <ng-template matStepLabel>Status & Remarks</ng-template>
+  
+        <form class="Remarks-form">
+            <mat-form-field>
+              <input matInput [matDatepicker]="Remarkpicker" placeholder="Remarks Date">
+              <mat-datepicker-toggle matSuffix [for]="Remarkpicker"></mat-datepicker-toggle>
+              <mat-datepicker #Remarkpicker></mat-datepicker>
+            </mat-form-field>
+          </form>
+  
+        <div>
+          <button mat-button matStepperPrevious>Back</button>
+          <button mat-button matStepperNext>Next</button>
+        </div>
+      </form>
+    </mat-step>
+
+  <mat-step>
+    <ng-template matStepLabel>Done</ng-template>
+    You are now done.
+    <div>
+      <button mat-button matStepperPrevious>Back</button>
+      <button mat-button (click)="stepper.reset()">Reset</button>
+    </div>
+  </mat-step>
+
+</mat-horizontal-stepper>

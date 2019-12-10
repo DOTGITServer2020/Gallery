@@ -1,0 +1,26 @@
+O:\GIT\Gallery\Gallery\Mainpulator\bin\Debug\Business_Logic_Layer.dll
+O:\GIT\Gallery\Gallery\Mainpulator\bin\Debug\Business_Logic_Layer.pdb
+O:\GIT\Gallery\Gallery\Mainpulator\bin\Debug\Data Access Layer.dll
+O:\GIT\Gallery\Gallery\Mainpulator\bin\Debug\Newtonsoft.Json.dll
+O:\GIT\Gallery\Gallery\Mainpulator\bin\Debug\Data Access Layer.pdb
+O:\GIT\Gallery\Gallery\Mainpulator\bin\Debug\Newtonsoft.Json.xml
+O:\GIT\Gallery\Gallery\Mainpulator\obj\Debug\Business_Logic_Layer.csprojAssemblyReference.cache
+O:\GIT\Gallery\Gallery\Mainpulator\obj\Debug\Business_Logic_Layer.Properties.Resources.resources
+O:\GIT\Gallery\Gallery\Mainpulator\obj\Debug\Business_Logic_Layer.csproj.GenerateResource.cache
+O:\GIT\Gallery\Gallery\Mainpulator\obj\Debug\Business_Logic_Layer.csproj.CoreCompileInputs.cache
+O:\GIT\Gallery\Gallery\Mainpulator\obj\Debug\Business_Logic_Layer.csproj.CopyComplete
+O:\GIT\Gallery\Gallery\Mainpulator\obj\Debug\Business_Logic_Layer.dll
+O:\GIT\Gallery\Gallery\Mainpulator\obj\Debug\Business_Logic_Layer.pdb
+O:\GIT\Gallery\Gallery\Business_Logic_Layer\bin\Debug\Business_Logic_Layer.dll
+O:\GIT\Gallery\Gallery\Business_Logic_Layer\bin\Debug\Business_Logic_Layer.pdb
+O:\GIT\Gallery\Gallery\Business_Logic_Layer\bin\Debug\Data Access Layer.dll
+O:\GIT\Gallery\Gallery\Business_Logic_Layer\bin\Debug\Newtonsoft.Json.dll
+O:\GIT\Gallery\Gallery\Business_Logic_Layer\bin\Debug\Data Access Layer.pdb
+O:\GIT\Gallery\Gallery\Business_Logic_Layer\bin\Debug\Newtonsoft.Json.xml
+O:\GIT\Gallery\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csprojAssemblyReference.cache
+O:\GIT\Gallery\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.Properties.Resources.resources
+O:\GIT\Gallery\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csproj.GenerateResource.cache
+O:\GIT\Gallery\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csproj.CoreCompileInputs.cache
+O:\GIT\Gallery\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csproj.CopyComplete
+O:\GIT\Gallery\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.dll
+O:\GIT\Gallery\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.pdb

@@ -1,0 +1,1 @@
+Data Source=127.0.0.1;Initial Catalog=VIKI;User ID=sqlserver;Password=madhuviki2668;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False.

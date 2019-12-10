@@ -1,0 +1,104 @@
+<mat-sidenav-container class="example-container">
+  <mat-sidenav #sidenav mode="push">
+    <p><button mat-button (click)="sidenav.toggle()">
+        Menu Bar Toggle
+      </button></p>
+    <p>
+
+    </p>
+
+
+    <mat-expansion-panel>
+
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          Dashboard
+        </mat-panel-title>
+      </mat-expansion-panel-header>
+
+
+
+    </mat-expansion-panel>
+
+    <mat-expansion-panel>
+
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          Input
+        </mat-panel-title>
+      </mat-expansion-panel-header>
+
+
+
+    </mat-expansion-panel>
+
+    <mat-expansion-panel>
+
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          Analysis
+        </mat-panel-title>
+      </mat-expansion-panel-header>
+
+
+
+    </mat-expansion-panel>
+
+    <mat-expansion-panel>
+
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          Process
+        </mat-panel-title>
+      </mat-expansion-panel-header>
+
+
+
+    </mat-expansion-panel>
+
+    <mat-expansion-panel>
+
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          Audit
+        </mat-panel-title>
+      </mat-expansion-panel-header>
+
+
+
+    </mat-expansion-panel>
+
+    <mat-expansion-panel>
+
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          Output
+        </mat-panel-title>
+      </mat-expansion-panel-header>
+
+
+
+    </mat-expansion-panel>
+
+    <mat-expansion-panel>
+
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          Config
+        </mat-panel-title>
+      </mat-expansion-panel-header>
+
+
+
+    </mat-expansion-panel>
+
+  </mat-sidenav>
+
+  <mat-sidenav-content>
+    <p><button mat-button (click)="sidenav.toggle()">Toggle</button></p>
+    <p>
+      <router-outlet></router-outlet>
+    </p>
+
+  </mat-sidenav-content>
+</mat-sidenav-container>

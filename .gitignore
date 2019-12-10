@@ -1,0 +1,10 @@
+
+Gallery/.vs/*
+
+Gallery/DOTWEB/.editorconfig
+Gallery/WebPresentationLayer/src/assets/.gitkeep
+Gallery/WebPresentationLayerAPI/.vs
+Gallery/WebPresentationLayerAPI/WebPresentationLayerAPI/bin/*
+Gallery/WebPresentationLayerAPI/WebPresentationLayerAPI/obj
+Gallery/WebPresentationLayerAPI/packages
+

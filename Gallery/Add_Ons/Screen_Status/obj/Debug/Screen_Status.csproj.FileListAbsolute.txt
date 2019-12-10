@@ -1,0 +1,7 @@
+O:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\bin\Debug\WindowStatus.exe.config
+O:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\bin\Debug\WindowStatus.exe
+O:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\bin\Debug\WindowStatus.pdb
+O:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\obj\Debug\Screen_Status.csprojAssemblyReference.cache
+O:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\obj\Debug\Screen_Status.csproj.CoreCompileInputs.cache
+O:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\obj\Debug\WindowStatus.exe
+O:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\obj\Debug\WindowStatus.pdb
