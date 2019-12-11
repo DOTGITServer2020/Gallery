@@ -1,50 +1,69 @@
-O:\GIT\Gallery\Gallery\Gallery\bin\Debug\Gallery.exe.config
-O:\GIT\Gallery\Gallery\Gallery\bin\Debug\Gallery.exe
-O:\GIT\Gallery\Gallery\Gallery\bin\Debug\Gallery.pdb
-O:\GIT\Gallery\Gallery\Gallery\bin\Debug\Business_Logic_Layer.dll
-O:\GIT\Gallery\Gallery\Gallery\bin\Debug\Data Access Layer.dll
-O:\GIT\Gallery\Gallery\Gallery\bin\Debug\MetroFramework.dll
-O:\GIT\Gallery\Gallery\Gallery\bin\Debug\MetroFramework.Fonts.dll
-O:\GIT\Gallery\Gallery\Gallery\bin\Debug\Data Access Layer.pdb
-O:\GIT\Gallery\Gallery\Gallery\bin\Debug\Business_Logic_Layer.pdb
-O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Windows_Presentation_Layer.csprojAssemblyReference.cache
-O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Gallery.Properties.Resources.resources
-O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Windows_Presentation_Layer.Theme.resources
-O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.Administration.ClientAccess.resources
-O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.Administration.UserAccess.resources
-O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.ClientInfo.resources
-O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.Home.resources
-O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.Login.resources
-O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.Security.resources
-O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Windows_Presentation_Layer.csproj.GenerateResource.cache
-O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Gallery.exe.licenses
-O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Windows_Presentation_Layer.csproj.CoreCompileInputs.cache
-O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Windows_Presentation_Layer.csproj.CopyComplete
-O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Gallery.exe
-O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Gallery.pdb
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\Windows_Presentation_Layer.exe.config
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\Windows_Presentation_Layer.exe
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\Windows_Presentation_Layer.pdb
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\Business_Logic_Layer.dll
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\Data Access Layer.dll
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\MetroFramework.dll
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\MetroFramework.Fonts.dll
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\Business_Logic_Layer.pdb
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\Data Access Layer.pdb
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csprojAssemblyReference.cache
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.Class.Shadow.resources
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.Properties.Resources.resources
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.Main_User_Interface.Theme.resources
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.Sub_User_Interface.LoginForm.resources
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.Sub_User_Interface.Notifications.resources
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.Administration.ClientAccess.resources
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.Administration.UserAccess.resources
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.Authentication.TwoStageLogin.resources
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.ClientInfo.resources
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.Security.resources
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csproj.GenerateResource.cache
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.exe.licenses
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csproj.CoreCompileInputs.cache
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csproj.CopyComplete
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.exe
-O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.pdb
+O:\dcloudserver2020\ATOZ-Office-Supply\Windows_Presentation_Layer\bin\Debug\Windows_Presentation_Layer.exe.config
+O:\dcloudserver2020\ATOZ-Office-Supply\Windows_Presentation_Layer\bin\Debug\Windows_Presentation_Layer.exe
+O:\dcloudserver2020\ATOZ-Office-Supply\Windows_Presentation_Layer\bin\Debug\Windows_Presentation_Layer.pdb
+O:\dcloudserver2020\ATOZ-Office-Supply\Windows_Presentation_Layer\bin\Debug\MaterialSkin.dll
+O:\dcloudserver2020\ATOZ-Office-Supply\Windows_Presentation_Layer\bin\Debug\Newtonsoft.Json.dll
+O:\dcloudserver2020\ATOZ-Office-Supply\Windows_Presentation_Layer\bin\Debug\Newtonsoft.Json.xml
+O:\dcloudserver2020\ATOZ-Office-Supply\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csprojAssemblyReference.cache
+O:\dcloudserver2020\ATOZ-Office-Supply\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.Properties.Resources.resources
+O:\dcloudserver2020\ATOZ-Office-Supply\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.Sub_User_Interface.Login.resources
+O:\dcloudserver2020\ATOZ-Office-Supply\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csproj.GenerateResource.cache
+O:\dcloudserver2020\ATOZ-Office-Supply\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csproj.CoreCompileInputs.cache
+O:\dcloudserver2020\ATOZ-Office-Supply\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csproj.CopyComplete
+O:\dcloudserver2020\ATOZ-Office-Supply\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.exe
+O:\dcloudserver2020\ATOZ-Office-Supply\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.pdb
+O:\dcloudserver2020\ATOZ-Office-Supply\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.Main_User_Interface.Home.resources
+O:\dcloudserver2020\ATOZ-Office-Supply\Windows_Presentation_Layer\bin\Debug\Bunifu_UI_v1.52.dll
+D:\DEV Projects\ATOZ-Office-Supply\Windows_Presentation_Layer\bin\Debug\Windows_Presentation_Layer.exe.config
+D:\DEV Projects\ATOZ-Office-Supply\Windows_Presentation_Layer\bin\Debug\Windows_Presentation_Layer.exe
+D:\DEV Projects\ATOZ-Office-Supply\Windows_Presentation_Layer\bin\Debug\Windows_Presentation_Layer.pdb
+D:\DEV Projects\ATOZ-Office-Supply\Windows_Presentation_Layer\bin\Debug\MaterialSkin.dll
+D:\DEV Projects\ATOZ-Office-Supply\Windows_Presentation_Layer\bin\Debug\Newtonsoft.Json.dll
+D:\DEV Projects\ATOZ-Office-Supply\Windows_Presentation_Layer\bin\Debug\ShadowPanel.dll
+D:\DEV Projects\ATOZ-Office-Supply\Windows_Presentation_Layer\bin\Debug\ShadowPanel.pdb
+D:\DEV Projects\ATOZ-Office-Supply\Windows_Presentation_Layer\bin\Debug\Newtonsoft.Json.xml
+D:\DEV Projects\ATOZ-Office-Supply\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csprojAssemblyReference.cache
+D:\DEV Projects\ATOZ-Office-Supply\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.Properties.Resources.resources
+D:\DEV Projects\ATOZ-Office-Supply\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.Main_User_Interface.Home.resources
+D:\DEV Projects\ATOZ-Office-Supply\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.Sub_User_Interface.Login.resources
+D:\DEV Projects\ATOZ-Office-Supply\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.Welcome.resources
+D:\DEV Projects\ATOZ-Office-Supply\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csproj.GenerateResource.cache
+D:\DEV Projects\ATOZ-Office-Supply\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csproj.CoreCompileInputs.cache
+D:\DEV Projects\ATOZ-Office-Supply\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csproj.CopyComplete
+D:\DEV Projects\ATOZ-Office-Supply\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.exe
+D:\DEV Projects\ATOZ-Office-Supply\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.pdb
+D:\DEV Projects\Gallery 2\Windows_Presentation_Layer\bin\Debug\Windows_Presentation_Layer.exe.config
+D:\DEV Projects\Gallery 2\Windows_Presentation_Layer\bin\Debug\Windows_Presentation_Layer.exe
+D:\DEV Projects\Gallery 2\Windows_Presentation_Layer\bin\Debug\Windows_Presentation_Layer.pdb
+D:\DEV Projects\Gallery 2\Windows_Presentation_Layer\bin\Debug\MaterialSkin.dll
+D:\DEV Projects\Gallery 2\Windows_Presentation_Layer\bin\Debug\Newtonsoft.Json.dll
+D:\DEV Projects\Gallery 2\Windows_Presentation_Layer\bin\Debug\ShadowPanel.dll
+D:\DEV Projects\Gallery 2\Windows_Presentation_Layer\bin\Debug\ShadowPanel.pdb
+D:\DEV Projects\Gallery 2\Windows_Presentation_Layer\bin\Debug\Newtonsoft.Json.xml
+D:\DEV Projects\Gallery 2\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csprojAssemblyReference.cache
+D:\DEV Projects\Gallery 2\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.Properties.Resources.resources
+D:\DEV Projects\Gallery 2\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.Main_User_Interface.Home.resources
+D:\DEV Projects\Gallery 2\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.Sub_User_Interface.Login.resources
+D:\DEV Projects\Gallery 2\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.Welcome.resources
+D:\DEV Projects\Gallery 2\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csproj.GenerateResource.cache
+D:\DEV Projects\Gallery 2\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csproj.CoreCompileInputs.cache
+D:\DEV Projects\Gallery 2\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csproj.CopyComplete
+D:\DEV Projects\Gallery 2\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.exe
+D:\DEV Projects\Gallery 2\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.pdb
+F:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\Windows_Presentation_Layer.exe.config
+F:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\Windows_Presentation_Layer.exe
+F:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\Windows_Presentation_Layer.pdb
+F:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\MaterialSkin.dll
+F:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\ShadowPanel.dll
+F:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\ShadowPanel.pdb
+F:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csprojAssemblyReference.cache
+F:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.Properties.Resources.resources
+F:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.Main_User_Interface.Home.resources
+F:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.Sub_User_Interface.Login.resources
+F:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.Welcome.resources
+F:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csproj.GenerateResource.cache
+F:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csproj.CoreCompileInputs.cache
+F:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csproj.CopyComplete
+F:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.exe
+F:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.pdb
+F:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.Sub_User_Interface.PopUp.resources

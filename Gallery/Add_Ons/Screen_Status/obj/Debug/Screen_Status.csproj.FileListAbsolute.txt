@@ -5,3 +5,10 @@ O:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\obj\Debug\Screen_Status.csprojAssem
 O:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\obj\Debug\Screen_Status.csproj.CoreCompileInputs.cache
 O:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\obj\Debug\WindowStatus.exe
 O:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\obj\Debug\WindowStatus.pdb
+F:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\bin\Debug\WindowStatus.exe.config
+F:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\bin\Debug\WindowStatus.exe
+F:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\bin\Debug\WindowStatus.pdb
+F:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\obj\Debug\Screen_Status.csproj.CoreCompileInputs.cache
+F:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\obj\Debug\WindowStatus.exe
+F:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\obj\Debug\WindowStatus.pdb
+F:\GIT\Gallery\Gallery\Add_Ons\Screen_Status\obj\Debug\Screen_Status.csprojAssemblyReference.cache

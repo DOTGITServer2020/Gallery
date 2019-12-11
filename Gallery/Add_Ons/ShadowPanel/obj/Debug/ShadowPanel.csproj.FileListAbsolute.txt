@@ -1,0 +1,18 @@
+C:\Users\Admin\source\repos\WindowsFormsApp1 test\WindowsFormsApp1 test\ShadowPanel\bin\Debug\ShadowPanel.dll
+C:\Users\Admin\source\repos\WindowsFormsApp1 test\WindowsFormsApp1 test\ShadowPanel\bin\Debug\ShadowPanel.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp1 test\WindowsFormsApp1 test\ShadowPanel\obj\Debug\ShadowPanel.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1 test\WindowsFormsApp1 test\ShadowPanel\obj\Debug\ShadowPanel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1 test\WindowsFormsApp1 test\ShadowPanel\obj\Debug\ShadowPanel.dll
+C:\Users\Admin\source\repos\WindowsFormsApp1 test\WindowsFormsApp1 test\ShadowPanel\obj\Debug\ShadowPanel.pdb
+D:\DEV Projects\ATOZ-Office-Supply\Add_On\ShadowPanel\bin\Debug\ShadowPanel.dll
+D:\DEV Projects\ATOZ-Office-Supply\Add_On\ShadowPanel\bin\Debug\ShadowPanel.pdb
+D:\DEV Projects\ATOZ-Office-Supply\Add_On\ShadowPanel\obj\Debug\ShadowPanel.csprojAssemblyReference.cache
+D:\DEV Projects\ATOZ-Office-Supply\Add_On\ShadowPanel\obj\Debug\ShadowPanel.csproj.CoreCompileInputs.cache
+D:\DEV Projects\ATOZ-Office-Supply\Add_On\ShadowPanel\obj\Debug\ShadowPanel.dll
+D:\DEV Projects\ATOZ-Office-Supply\Add_On\ShadowPanel\obj\Debug\ShadowPanel.pdb
+F:\GIT\Gallery\Gallery\Add_Ons\ShadowPanel\bin\Debug\ShadowPanel.dll
+F:\GIT\Gallery\Gallery\Add_Ons\ShadowPanel\bin\Debug\ShadowPanel.pdb
+F:\GIT\Gallery\Gallery\Add_Ons\ShadowPanel\obj\Debug\ShadowPanel.csproj.CoreCompileInputs.cache
+F:\GIT\Gallery\Gallery\Add_Ons\ShadowPanel\obj\Debug\ShadowPanel.dll
+F:\GIT\Gallery\Gallery\Add_Ons\ShadowPanel\obj\Debug\ShadowPanel.pdb
+F:\GIT\Gallery\Gallery\Add_Ons\ShadowPanel\obj\Debug\ShadowPanel.csprojAssemblyReference.cache

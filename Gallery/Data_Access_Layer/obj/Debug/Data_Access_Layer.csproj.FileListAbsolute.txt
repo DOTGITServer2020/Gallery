@@ -14,3 +14,11 @@ O:\GIT\Gallery\Gallery\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.Gene
 O:\GIT\Gallery\Gallery\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.CoreCompileInputs.cache
 O:\GIT\Gallery\Gallery\Data_Access_Layer\obj\Debug\Data Access Layer.dll
 O:\GIT\Gallery\Gallery\Data_Access_Layer\obj\Debug\Data Access Layer.pdb
+F:\GIT\Gallery\Gallery\Data_Access_Layer\bin\Debug\Data Access Layer.dll
+F:\GIT\Gallery\Gallery\Data_Access_Layer\bin\Debug\Data Access Layer.pdb
+F:\GIT\Gallery\Gallery\Data_Access_Layer\obj\Debug\Data_Access_Layer.Properties.Resources.resources
+F:\GIT\Gallery\Gallery\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.GenerateResource.cache
+F:\GIT\Gallery\Gallery\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.CoreCompileInputs.cache
+F:\GIT\Gallery\Gallery\Data_Access_Layer\obj\Debug\Data Access Layer.dll
+F:\GIT\Gallery\Gallery\Data_Access_Layer\obj\Debug\Data Access Layer.pdb
+F:\GIT\Gallery\Gallery\Data_Access_Layer\obj\Debug\Data_Access_Layer.csprojAssemblyReference.cache

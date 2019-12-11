@@ -118,169 +118,58 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Setting Grey" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Setting Grey.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Dashboard" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Dashboard.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="BlueLeft" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\BlueLeft.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Function Gray" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Function Gray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="RedTop" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\RedTop.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Process Gray" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Support\Process Gray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Login Name Gray" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Support\Login Name Gray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Password Gray" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Support\Password Gray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Input Gray" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Support\Input Gray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Block" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Block.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Toggle On" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Toggle On.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LeftArrowGray" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\LeftArrowGray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Ring SkyBlue" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Ring SkyBlue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="GreenTopLeft" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\GreenTopLeft.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="S_Save_Green" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\S_Save_Green.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="GreenTop" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\GreenTop.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Error" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Error.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Home New" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Home New.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Process Gray" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Process Gray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="DoubleLeftArrowGray" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\DoubleLeftArrowGray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Warning" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Warning.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ION_LOGO" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\ION_LOGO.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Success" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Success.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Session SkyBlue" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Session SkyBlue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="MenuRightArrowGray" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\MenuRightArrowGray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="User Gray" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\User Gray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Analysis Grey" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Analysis Grey.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="BlueTopLeft" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\BlueTopLeft.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Add" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Add.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Ring White" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Ring White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Vertical Gray" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Vertical Gray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="New" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\New.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Info" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Info.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Biometric" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Biometric.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="R_Add_Green" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\R_Add_Green.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="RedTopLeft" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\RedTopLeft.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Notification Gray" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Notification Gray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Toggle Off" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Toggle Off.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Search Gary" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Search Gary.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Header" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Header.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Dashboard Gray" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Dashboard Gray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Login SkyBlue" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Login SkyBlue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Home Grey" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Home Grey.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Audit Gray" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Support\Audit Gray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Save" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Save.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Analysis Grey" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Support\Analysis Grey.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="GreenLeft" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\GreenLeft.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Login SkyBlue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Support\Login SkyBlue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Message Gray" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Message Gray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Dashboard Gray" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Support\Dashboard Gray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Output Gray" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Support\Output Gray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Search Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Search Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ION_LOGO" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Support\ION_LOGO.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="R_Save_Green" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\R_Save_Green.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Message" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Support\Message.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Search Bar" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Search Bar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Message White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Support\Message White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="DoubleRightArrowGray" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\DoubleRightArrowGray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Clone" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Clone.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Logout White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Support\Logout White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Logout Gray" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Support\Logout Gray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="RedLeft" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\RedLeft.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Message Gray" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Support\Message Gray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="BlueTop" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\BlueTop.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Login BG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Support\Login BG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Password Gray" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Support\Password Gray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Setting Grey" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Support\Setting Grey.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Login BG1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Support\Login BG1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
