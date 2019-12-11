@@ -24,3 +24,16 @@ O:\GIT\Gallery\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.cspro
 O:\GIT\Gallery\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csproj.CopyComplete
 O:\GIT\Gallery\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.dll
 O:\GIT\Gallery\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.pdb
+F:\GIT\Gallery\Gallery\Business_Logic_Layer\bin\Debug\Business_Logic_Layer.dll
+F:\GIT\Gallery\Gallery\Business_Logic_Layer\bin\Debug\Business_Logic_Layer.pdb
+F:\GIT\Gallery\Gallery\Business_Logic_Layer\bin\Debug\Data Access Layer.dll
+F:\GIT\Gallery\Gallery\Business_Logic_Layer\bin\Debug\Newtonsoft.Json.dll
+F:\GIT\Gallery\Gallery\Business_Logic_Layer\bin\Debug\Data Access Layer.pdb
+F:\GIT\Gallery\Gallery\Business_Logic_Layer\bin\Debug\Newtonsoft.Json.xml
+F:\GIT\Gallery\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csprojAssemblyReference.cache
+F:\GIT\Gallery\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.Properties.Resources.resources
+F:\GIT\Gallery\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csproj.GenerateResource.cache
+F:\GIT\Gallery\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csproj.CoreCompileInputs.cache
+F:\GIT\Gallery\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csproj.CopyComplete
+F:\GIT\Gallery\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.dll
+F:\GIT\Gallery\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.pdb

@@ -3,11 +3,12 @@
 	USE GALLERY;	
 
 	CREATE TABLE Menu (
-    	MenuID INT PRIMARY KEY IDENTITY(1,1),
+    MenuID INT PRIMARY KEY IDENTITY(1,1),
 	MenuName VARCHAR(500),
 	Isactive BIT
 	);
 
+	Begin
 	INSERT INTO Menu VALUES ('Dashboard',1)
 	INSERT INTO Menu VALUES ('Input',1)
 	INSERT INTO Menu VALUES ('Analysis',1)
@@ -15,6 +16,7 @@
 	INSERT INTO Menu VALUES ('Audit',1)
 	INSERT INTO Menu VALUES ('Output',1)
 	INSERT INTO Menu VALUES ('Setting',1)
+	End
 
 	CREATE TABLE Functions (
 	FunctionID INT PRIMARY KEY IDENTITY(1,1),
@@ -23,7 +25,7 @@
 	);
 
 	-- SELECT * FROM Functions
-
+	Begin 
 	INSERT INTO Functions VALUES ('ADMINADMINISTRATION',1)
 	INSERT INTO Functions VALUES ('CUSTOMER SERVICE',1)
 	INSERT INTO Functions VALUES ('FINANCE',1)
@@ -37,7 +39,7 @@
 	INSERT INTO Functions VALUES ('TRAVEL DESK',1)
 	INSERT INTO Functions VALUES ('QUALITY ASSURANCE',1)
 	INSERT INTO Functions VALUES ('OPERATION',1)
-
+	END 
 
 	CREATE TABLE Process (
 	ProcessID INT PRIMARY KEY IDENTITY(1,1),
@@ -46,7 +48,7 @@
 	);
 	  	
 	-- SELECT * FROM Process
-
+	Begin 
 	INSERT INTO Process VALUES ('SUPPORT',1)
 	INSERT INTO Process VALUES ('PATIENT REGISTRATION',1)
 	INSERT INTO Process VALUES ('ELIGIBILITY & BENEFITS CHECK',1)
@@ -64,7 +66,7 @@
 	INSERT INTO Process VALUES ('APPEAL PROCEDURE',1)
 	INSERT INTO Process VALUES ('PATIENT BILLING & CALLER',1)
 	INSERT INTO Process VALUES ('CREDIT BALANCE',1)
-
+	END 
 
 	CREATE TABLE Processmapping (
 	PMID INT PRIMARY KEY IDENTITY(1,1),
@@ -74,7 +76,7 @@
 	);
 
 	-- SELECT * FROM Processmapping
-
+	Begin 
 	INSERT INTO Processmapping  VALUES (1,1,1)
 	INSERT INTO Processmapping  VALUES (2,1,1)
 	INSERT INTO Processmapping  VALUES (3,1,1)
@@ -103,6 +105,7 @@
 	INSERT INTO Processmapping  VALUES (13,15,1)
 	INSERT INTO Processmapping  VALUES (13,16,1)
 	INSERT INTO Processmapping  VALUES (13,17,1)
+	END
 
 	CREATE TABLE Roles (
     	RoleID INT PRIMARY KEY IDENTITY(1,1),
@@ -168,7 +171,7 @@
 	);
 	
 	-- SELECT * FROM RoleMapping
-
+	Begin
 	INSERT INTO RoleMapping VALUES (1,1,1)
 	INSERT INTO RoleMapping VALUES (1,2,1)
 	INSERT INTO RoleMapping VALUES (1,3,1)
@@ -577,9 +580,10 @@
 	INSERT INTO RoleMapping VALUES (28,14,1)
 	INSERT INTO RoleMapping VALUES (28,15,1)
 	INSERT INTO RoleMapping VALUES (28,16,1)
+	END
 
-	CREATE TABLE Navigator (
-	NaviID INT PRIMARY KEY IDENTITY(1,1),
+	CREATE TABLE MenuMapping (
+	MMID INT PRIMARY KEY IDENTITY(1,1),
 	FunctionID INT,
 	ProcessID INT,
 	RoleID INT,
@@ -589,6 +593,117 @@
 	Isactive BIT
 	);
 
-	-- SELECT * FROM Navigator
+	-- SELECT * FROM MenuMapping
 
-	INSERT INTO Navigator VALUES (2,1,1,2,'Matrix','CallMatrix',1)
+	CREATE TABLE InventoryColumn (
+	ICID INT PRIMARY KEY IDENTITY(1,1),
+	ColumnName VARCHAR(50),
+	);
+
+	-- SELECT * FROM InventoryColumn
+	Begin
+		INSERT INTO InventoryColumn VALUES ('COLUMN_A')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_B')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_C')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_D')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_E')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_F')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_G')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_H')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_I')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_J')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_K')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_L')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_M')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_N')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_O')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_P')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_Q')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_R')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_S')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_T')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_U')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_V')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_W')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_X')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_Y')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_Z')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AA')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AB')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AC')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AD')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AE')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AF')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AG')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AH')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AI')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AJ')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AK')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AL')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AM')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AN')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AO')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AP')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AQ')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AR')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AS')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AT')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AU')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AV')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AW')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AX')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AY')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_AZ')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BA')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BB')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BC')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BD')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BE')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BF')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BG')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BH')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BI')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BJ')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BK')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BL')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BM')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BN')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BO')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BP')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BQ')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BR')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BS')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BT')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BU')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BV')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BW')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BX')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BY')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_BZ')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CA')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CB')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CC')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CD')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CE')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CF')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CG')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CH')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CI')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CJ')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CK')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CL')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CM')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CN')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CO')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CP')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CQ')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CR')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CS')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CT')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CU')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CV')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CW')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CX')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CY')
+		INSERT INTO InventoryColumn VALUES ('COLUMN_CZ')
+	End

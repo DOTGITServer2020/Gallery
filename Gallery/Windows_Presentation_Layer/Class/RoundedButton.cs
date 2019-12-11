@@ -4,7 +4,7 @@ using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Windows.Forms;
 
-namespace Windows_Presentation_Layer.Controls
+namespace Windows_Presentation_Layer.Class
 {
     public class RoundedButton : Button
     {
@@ -301,7 +301,7 @@ namespace Windows_Presentation_Layer.Controls
 
         protected override void OnMouseUp(MouseEventArgs mevent)
         {
-            IsMouseUp= false;
+            IsMouseUp = false;
             Invalidate();
             base.OnMouseUp(mevent);
         }

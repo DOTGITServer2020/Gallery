@@ -1,0 +1,50 @@
+O:\GIT\Gallery\Gallery\Gallery\bin\Debug\Gallery.exe.config
+O:\GIT\Gallery\Gallery\Gallery\bin\Debug\Gallery.exe
+O:\GIT\Gallery\Gallery\Gallery\bin\Debug\Gallery.pdb
+O:\GIT\Gallery\Gallery\Gallery\bin\Debug\Business_Logic_Layer.dll
+O:\GIT\Gallery\Gallery\Gallery\bin\Debug\Data Access Layer.dll
+O:\GIT\Gallery\Gallery\Gallery\bin\Debug\MetroFramework.dll
+O:\GIT\Gallery\Gallery\Gallery\bin\Debug\MetroFramework.Fonts.dll
+O:\GIT\Gallery\Gallery\Gallery\bin\Debug\Data Access Layer.pdb
+O:\GIT\Gallery\Gallery\Gallery\bin\Debug\Business_Logic_Layer.pdb
+O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Windows_Presentation_Layer.csprojAssemblyReference.cache
+O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Gallery.Properties.Resources.resources
+O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Windows_Presentation_Layer.Theme.resources
+O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.Administration.ClientAccess.resources
+O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.Administration.UserAccess.resources
+O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.ClientInfo.resources
+O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.Home.resources
+O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.Login.resources
+O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.Security.resources
+O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Windows_Presentation_Layer.csproj.GenerateResource.cache
+O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Gallery.exe.licenses
+O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Windows_Presentation_Layer.csproj.CoreCompileInputs.cache
+O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Windows_Presentation_Layer.csproj.CopyComplete
+O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Gallery.exe
+O:\GIT\Gallery\Gallery\Gallery\obj\Debug\Gallery.pdb
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\Windows_Presentation_Layer.exe.config
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\Windows_Presentation_Layer.exe
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\Windows_Presentation_Layer.pdb
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\Business_Logic_Layer.dll
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\Data Access Layer.dll
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\MetroFramework.dll
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\MetroFramework.Fonts.dll
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\Business_Logic_Layer.pdb
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\bin\Debug\Data Access Layer.pdb
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csprojAssemblyReference.cache
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.Class.Shadow.resources
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.Properties.Resources.resources
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.Main_User_Interface.Theme.resources
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.Sub_User_Interface.LoginForm.resources
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.Sub_User_Interface.Notifications.resources
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.Administration.ClientAccess.resources
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.Administration.UserAccess.resources
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.Authentication.TwoStageLogin.resources
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.ClientInfo.resources
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.User_Interface.User_Controls.Security.resources
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csproj.GenerateResource.cache
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.exe.licenses
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csproj.CoreCompileInputs.cache
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.csproj.CopyComplete
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.exe
+O:\GIT\Gallery\Gallery\Windows_Presentation_Layer\obj\Debug\Windows_Presentation_Layer.pdb
