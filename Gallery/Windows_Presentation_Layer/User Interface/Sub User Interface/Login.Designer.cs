@@ -228,11 +228,11 @@
             this.label1.BackColor = System.Drawing.Color.White;
             this.label1.Font = new System.Drawing.Font("Arial Rounded MT Bold", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Gray;
-            this.label1.Location = new System.Drawing.Point(93, 44);
+            this.label1.Location = new System.Drawing.Point(138, 32);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(135, 32);
+            this.label1.Size = new System.Drawing.Size(87, 32);
             this.label1.TabIndex = 39;
-            this.label1.Text = "Welcome";
+            this.label1.Text = "Login";
             // 
             // label2
             // 
@@ -240,7 +240,7 @@
             this.label2.BackColor = System.Drawing.Color.White;
             this.label2.Font = new System.Drawing.Font("Arial Rounded MT Bold", 8F);
             this.label2.ForeColor = System.Drawing.Color.Gray;
-            this.label2.Location = new System.Drawing.Point(104, 332);
+            this.label2.Location = new System.Drawing.Point(102, 332);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(158, 12);
             this.label2.TabIndex = 47;
@@ -248,12 +248,13 @@
             // 
             // B_Login
             // 
+            this.B_Login.AutoSize = true;
             this.B_Login.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.B_Login.BackColor = System.Drawing.Color.White;
             this.B_Login.Depth = 0;
             this.B_Login.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.B_Login.Icon = null;
-            this.B_Login.Location = new System.Drawing.Point(144, 265);
+            this.B_Login.Location = new System.Drawing.Point(151, 265);
             this.B_Login.MouseState = MaterialSkin.MouseState.HOVER;
             this.B_Login.Name = "B_Login";
             this.B_Login.Primary = true;

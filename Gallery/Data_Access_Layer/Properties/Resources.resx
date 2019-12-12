@@ -118,6 +118,6 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="SQLConnection" xml:space="preserve">
-    <value>Data Source=DESKTOP-VJ87LQB;Initial Catalog=GALLERY;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=True</value>
+    <value>Provider=SQLOLEDB.1;Persist Security Info=False;User ID=admin;Initial Catalog=Gallery;Data Source=DESKTOP-0DSG389</value>
   </data>
 </root>

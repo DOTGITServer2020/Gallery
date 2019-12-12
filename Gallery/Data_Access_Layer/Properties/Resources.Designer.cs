@@ -61,7 +61,7 @@ namespace Data_Access_Layer.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Data Source=DESKTOP-VJ87LQB;Initial Catalog=GALLERY;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=True.
+        ///   Looks up a localized string similar to Provider=SQLOLEDB.1;Persist Security Info=False;User ID=admin;Initial Catalog=Gallery;Data Source=DESKTOP-0DSG389.
         /// </summary>
         internal static string SQLConnection {
             get {
