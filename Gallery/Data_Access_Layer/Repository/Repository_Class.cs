@@ -12,6 +12,8 @@ namespace Data_Access_Layer.Repository
     {
         public static class localStorage
         {
+            public static string HostName;
+            public static string IP;
             public static string MachineIdentity;
             public static string UserName;
             public static string CMapID;

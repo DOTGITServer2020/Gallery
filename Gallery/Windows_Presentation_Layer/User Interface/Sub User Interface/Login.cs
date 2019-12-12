@@ -30,6 +30,8 @@ namespace Windows_Presentation_Layer.User_Interface.Sub_User_Interface
                 );
             B_Selector.AutoSize = false;
             this.MaximizedBounds = Screen.GetWorkingArea(this);
+
+            TB_UserName.Focus();
         }
 
         private void B_Login_Click(object sender, EventArgs e)
