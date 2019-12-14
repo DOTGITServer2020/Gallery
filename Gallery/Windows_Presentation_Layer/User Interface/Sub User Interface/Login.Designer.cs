@@ -368,11 +368,11 @@
             this.B_Selector.Depth = 0;
             this.B_Selector.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.B_Selector.Icon = null;
-            this.B_Selector.Location = new System.Drawing.Point(0, 83);
+            this.B_Selector.Location = new System.Drawing.Point(3, 83);
             this.B_Selector.MouseState = MaterialSkin.MouseState.HOVER;
             this.B_Selector.Name = "B_Selector";
             this.B_Selector.Primary = true;
-            this.B_Selector.Size = new System.Drawing.Size(16, 57);
+            this.B_Selector.Size = new System.Drawing.Size(10, 57);
             this.B_Selector.TabIndex = 40;
             this.B_Selector.UseVisualStyleBackColor = false;
             // 
