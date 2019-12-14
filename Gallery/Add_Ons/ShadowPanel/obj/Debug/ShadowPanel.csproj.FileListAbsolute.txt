@@ -16,3 +16,9 @@ F:\GIT\Gallery\Gallery\Add_Ons\ShadowPanel\obj\Debug\ShadowPanel.csproj.CoreComp
 F:\GIT\Gallery\Gallery\Add_Ons\ShadowPanel\obj\Debug\ShadowPanel.dll
 F:\GIT\Gallery\Gallery\Add_Ons\ShadowPanel\obj\Debug\ShadowPanel.pdb
 F:\GIT\Gallery\Gallery\Add_Ons\ShadowPanel\obj\Debug\ShadowPanel.csprojAssemblyReference.cache
+D:\WorkSource\GIT\Gallery\Add_Ons\ShadowPanel\bin\Debug\ShadowPanel.dll
+D:\WorkSource\GIT\Gallery\Add_Ons\ShadowPanel\bin\Debug\ShadowPanel.pdb
+D:\WorkSource\GIT\Gallery\Add_Ons\ShadowPanel\obj\Debug\ShadowPanel.csprojAssemblyReference.cache
+D:\WorkSource\GIT\Gallery\Add_Ons\ShadowPanel\obj\Debug\ShadowPanel.csproj.CoreCompileInputs.cache
+D:\WorkSource\GIT\Gallery\Add_Ons\ShadowPanel\obj\Debug\ShadowPanel.dll
+D:\WorkSource\GIT\Gallery\Add_Ons\ShadowPanel\obj\Debug\ShadowPanel.pdb

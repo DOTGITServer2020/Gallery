@@ -12,7 +12,7 @@ export class AuthService {
     const body = {
       value: 'sample'
     }
-    return this.http.post<any>('http://localhost:54132/api/Values/Post', body);
+    return this.http.post<any>('http://localhost:54132/api/Values/Post', body.value);
 
 
   }

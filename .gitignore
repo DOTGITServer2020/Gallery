@@ -1,6 +1,9 @@
 
 Gallery/.vs/*
-
+Gallery/WebPresentationLayerAPI/WebPresentationLayerAPI/bin/*
+Gallery/WebPresentationLayerAPI/WebPresentationLayerAPI/obj/*
+Gallery/Data_Access_Layer/bin/**
+Gallery/Data_Access_Layer/obj/**
 Gallery/DOTWEB/.editorconfig
 Gallery/WebPresentationLayer/src/assets/.gitkeep
 Gallery/WebPresentationLayerAPI/.vs
@@ -8,3 +11,4 @@ Gallery/WebPresentationLayerAPI/WebPresentationLayerAPI/bin/*
 Gallery/WebPresentationLayerAPI/WebPresentationLayerAPI/obj
 Gallery/WebPresentationLayerAPI/packages
 
+Gallery/Business_Logic_Layer/bin/Debug/Newtonsoft.Json.xml

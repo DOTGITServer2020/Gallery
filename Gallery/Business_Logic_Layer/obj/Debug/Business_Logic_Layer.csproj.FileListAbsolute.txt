@@ -37,3 +37,9 @@ F:\GIT\Gallery\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.cspro
 F:\GIT\Gallery\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csproj.CopyComplete
 F:\GIT\Gallery\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.dll
 F:\GIT\Gallery\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.pdb
+D:\WorkSource\GIT\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csprojAssemblyReference.cache
+D:\WorkSource\GIT\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.Properties.Resources.resources
+D:\WorkSource\GIT\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csproj.GenerateResource.cache
+D:\WorkSource\GIT\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csproj.CoreCompileInputs.cache
+D:\WorkSource\GIT\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.dll
+D:\WorkSource\GIT\Gallery\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.pdb

@@ -16,10 +16,10 @@ export class LoginComponent implements OnInit {
 
   Login() {
     this.IsLoggedIn = true;
-    // this.router.navigateByUrl('Dot/HR/AddNewEmployee');
-    this.authService.post().subscribe(res => {
+    this.router.navigateByUrl('Dot/hr/AddNewEmployee');
+    // this.authService.post().subscribe(res => {
 
-    });
+    // });
   }
 
   LoginBack() {

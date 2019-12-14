@@ -5,12 +5,14 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using System.Web.Http.Cors;
+using Business_Logic_Layer.Module.Method;
 
 namespace WebPresentationLayerAPI.Controllers
 {
-
+    [RoutePrefix("api/Value")]
     public class ValuesController : ApiController
     {
+
         // GET api/values
         public IEnumerable<string> Get()
         {
@@ -22,6 +24,7 @@ namespace WebPresentationLayerAPI.Controllers
         {
             return "value";
         }
+        [Route("gett")]
         [HttpPost]
         // POST api/values
         public void Post([FromBody]string value)
